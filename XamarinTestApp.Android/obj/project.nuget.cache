@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+iq3/NUoQmRRBuF77m1MUuDoe/n1q6cozuvKP0srsADtWUeta3vNeLcXb2IxelmYEV4IP9BywjoiflHfQornxg==",
+  "dgSpecHash": "5tCN/TiaOrc9iAByvzjrh38waCW3y1xmRRwzSaMOBeH6ixGyeIQssqvldQUBvnIXNo2NTzt3Epbw/SSa4vdaBA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Luka\\Documents\\GitHub\\crispy-doodle\\XamarinTestApp\\XamarinTestApp.Android\\XamarinTestApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.appcenter\\4.5.1\\microsoft.appcenter.4.5.1.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.appcenter.analytics\\4.5.1\\microsoft.appcenter.analytics.4.5.1.nupkg.sha512",
+    "C:\\Users\\Luka\\.nuget\\packages\\microsoft.appcenter.crashes\\4.5.1\\microsoft.appcenter.crashes.4.5.1.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\Luka\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
