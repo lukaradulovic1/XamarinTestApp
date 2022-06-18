@@ -20,7 +20,7 @@ namespace XamarinTestApp
             count++;
             ((Button)sender).Text = $"You clicked {count} times.";
             if (count == 10)
-            {
+            { // App will stop after 10 hits
                 ((Button)sender).Text = $"Antistress process finished!";
                 System.Diagnostics.Process.GetCurrentProcess().CloseMainWindow();
             }
